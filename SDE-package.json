@@ -1,0 +1,16 @@
+{
+  "name": "decentralized-exchange",
+  "version": "1.0.0",
+  "description": "A decentralized exchange built with Solidity.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "truffle": "^5.4.14",
+    "web3": "^1.5.2"
+  }
+}
